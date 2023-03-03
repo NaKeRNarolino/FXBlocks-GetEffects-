@@ -7,9 +7,9 @@ Block name shows the effect it gives. Every block uses 8HP(4 Hearts) for 30sec. 
 
 Blocks are craftable, all recipes are like this:
 
-X
-A
-X
+X \n
+A \n
+X \n
 
 Where X is Iron Block, and A is an item/a block which depends of the block.
 
