@@ -14,7 +14,7 @@ Blocks are craftable, all recipes are like this:
 Where X is Iron Block, and A is an item/a block which depends of the block.
 
 Invisibility = Iron ingot
-Speed = Redstone Block
+Speed = Redstone Block 
 Levitation = Diamond
 Regeneration = Gold Ingot
 Night Vision = Iron Nugget
